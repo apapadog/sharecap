@@ -1,0 +1,9 @@
+*.swp
+*~
+*.o
+*.a
+src/test_sharecap
+libpcap/libpcap.so*
+test_sharecap/master
+test_sharecap/client
+test_suricata/suricata
